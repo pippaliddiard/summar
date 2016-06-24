@@ -1,0 +1,16 @@
+body{
+   font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+   margin: 0;
+   padding-bottom: 40px;
+}
+.page-content{
+  max-width: 640px;
+  margin: 0 auto;
+}
+.post-title{
+  color: #3e3e3e;
+}
+.post-date{
+  color: #a2a9b6;
+  margin-bottom: 30px;
+}
